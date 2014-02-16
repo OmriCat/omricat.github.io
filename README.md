@@ -1,2 +1,2 @@
-omricat.githubl.io
+omricat.github.io
 ==================
